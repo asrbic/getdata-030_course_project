@@ -6,6 +6,6 @@ This repo contains an r script to generate summary statistics from the UCI Human
 ##Instructions
 The provided "run_analysis.R" script requires that the "UCI HAR Dataset" be in the current working directory for the r environment. 
 
-To run it, simply execute run_analysis.R in RStudio. The tidy table data will be output to "<current working directory>/tidy_data.txt"
+To run it, simply execute run_analysis.R by executing the command: source("./run_analysis.R") in RStudio. The tidy table data will be output to "<current working directory>/tidy_data.txt"
 
 The script will produce the mean and standard deviation for each action and subject in the datset. 
