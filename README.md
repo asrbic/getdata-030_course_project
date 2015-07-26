@@ -8,4 +8,4 @@ The provided "run_analysis.R" script requires that the "UCI HAR Dataset" be in t
 
 To run it, simply execute run_analysis.R by executing the command: source("./run_analysis.R") in RStudio. The tidy table data will be output to "<current working directory>/tidy_data.txt"
 
-The script will produce the mean and standard deviation for each action and subject in the datset. 
+The script will produce the mean and standard deviation for each action and subject in the datset. More details of the output data can be found in CODEBOOK.md in this repository.
